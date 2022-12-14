@@ -1,0 +1,17 @@
+
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+}
+.a{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.b{
+margin-top: 50px;
+}
+body{
+    background-color: black;
+}
